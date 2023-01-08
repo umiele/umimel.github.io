@@ -1,2 +1,2 @@
-# umimel.github.io
-study notes
+# Study Notes
+勉強したことを, ノートとして残しています.
